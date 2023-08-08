@@ -19,4 +19,5 @@ Database connection. Writing queries in PostgreSQL.
 ## Libraries used:
 pandas, sqlalchemy.
 
-## Status: Completed
+## Status:
+Completed
