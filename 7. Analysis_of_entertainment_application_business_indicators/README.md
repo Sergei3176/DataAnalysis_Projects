@@ -25,3 +25,5 @@ Using cohort analysis, calculating metrics (LTV, CAC, ROI, Retention Rate, etc.)
 
 ## LIBRARIES USED:
 Pandas, Numpy, Matplotlib, Seaborn, Datetime.
+
+## Status: Completed

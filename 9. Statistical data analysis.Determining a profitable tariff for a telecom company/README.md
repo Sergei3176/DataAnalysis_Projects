@@ -22,3 +22,5 @@ Preprocessing and exploratory analysis and data visualization. Formulation and t
 
 ## Libraries used:
 Pandas, Numpy, SciPy, math, Datetime, Matplotlib, Seaborn.
+
+## Status: Completed

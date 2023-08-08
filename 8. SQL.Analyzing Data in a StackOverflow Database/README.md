@@ -22,3 +22,5 @@ Database connection. Writing queries in PostgreSQL (subqueries, window functions
 
 ## Libraries used:
 Pandas, sqlalchemy, Seaborn, Plotly.
+
+## Status: Completed

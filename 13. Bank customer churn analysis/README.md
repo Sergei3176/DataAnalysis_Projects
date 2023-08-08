@@ -18,3 +18,6 @@ Preprocessing and exploratory analysis and data visualization. Testing statistic
 
 ## Libraries used:
 Pandas, Numpy, SciPy, Matplotlib.
+
+## Status:
+Completed

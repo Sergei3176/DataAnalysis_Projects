@@ -19,3 +19,5 @@ Database connection. Preprocessing and data analysis. Creating a dashboard in Ta
 pandas, numpy, sqlalchemy.
 
 Used by Tableau Public.
+
+## Status: Completed

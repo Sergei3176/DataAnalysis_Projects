@@ -14,3 +14,6 @@ Data preprocessing, exploratory data analysis, adding new data, and visualizatio
 
 ## LIBRARIES USED:
 Pandas, Matplotlib, Seaborn
+
+## Status:
+Completed

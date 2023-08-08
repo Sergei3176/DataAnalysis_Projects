@@ -20,3 +20,5 @@ Preprocessing and exploratory data analysis. Evaluation of the correctness of th
 
 ## Libraries used:
 Pandas, SciPy.Stats, math, Datetime, Matplotlib, Seaborn, Plotly.Graph_objects.
+
+## Status: Completed

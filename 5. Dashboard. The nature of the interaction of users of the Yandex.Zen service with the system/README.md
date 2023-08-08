@@ -17,3 +17,5 @@ Database connection. Preprocessing and data analysis. Creating a dashboard in Ta
 Pandas, sqlalchemy, Seaborn, Plotly.
 
 Used by Tableau Public.
+
+## Status: Completed
